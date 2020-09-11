@@ -1,0 +1,33 @@
+body {
+    background-image: url(../pics/bookback.jpg);
+}
+
+.card {
+    margin: 20px auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-left: 25px;
+}
+
+.margined-top {
+margin: 25px auto;
+}
+
+.half-page{
+    /* margin-right: 50%; */
+    width: 500px;
+}
+
+.mright{
+    margin-right: 25px;
+}
+
+.bg-custom {
+    background-color: #FFE8D4;
+}
+
+.btn-info{
+    background-color: #87CEEB;
+    border-color:  #87CEEB;
+}
+
